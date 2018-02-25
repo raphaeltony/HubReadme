@@ -96,7 +96,7 @@ You can edit the files in src folder of the react-native app.
 If you find a bug, you can raise an issue here.
 
 # Acknowledgements
-- Akshatha S - * NodeJS Express *(Backend) - 
+- Akshatha S - * NodeJS Express *(Backend) - akshatha.s513@gmail.com 
 - Raphael Tony - * React Native *(Frontend) - prince4raphael@gmail.com
 - Rajeev Ranjan - * React JS *(Frontend) - talegarry1202@gmail.com
 - Built on top of Hasura boilerplate hello-react
